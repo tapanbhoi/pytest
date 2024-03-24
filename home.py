@@ -1,6 +1,0 @@
-print('created first file')
-print('created second commit')
-print('added 3rd commit')
-print('New change')
-print('trishan1 branch created')
-# Removed line is discarded (assuming it's not needed)
